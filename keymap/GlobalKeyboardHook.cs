@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using Avalonia.Threading;
 
-namespace keymap;
+namespace KeyboardMonitoring;
 
 /// <summary>
 /// Provides a global (system wide) low level keyboard hook for Windows.

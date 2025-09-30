@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace keymap;
+namespace KeyboardMonitoring;
 
 public partial class MainWindow : Window
 {

@@ -1,7 +1,8 @@
 ﻿using Avalonia;
 using System;
+using keymap;
 
-namespace keymap;
+namespace KeyboardMonitoring;
 
 class Program
 {

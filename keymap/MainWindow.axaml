@@ -4,8 +4,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:ScrollViewer="clr-namespace:Avalonia.Controls;assembly=Avalonia.Controls"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="600"
-        x:Class="keymap.MainWindow"
-        Title="keymap - 系统键盘事件监视">
+        x:Class="KeyboardMonitoring.MainWindow"
+        Title="KeyboardMonitoring - 系统键盘事件监视">
     <Grid Margin="8" RowDefinitions="Auto,*" RowSpacing="6">
         <TextBlock Text="系统键盘事件日志 (全局)" FontWeight="Bold" FontSize="16" />
         <TextBox x:Name="LogBox"
